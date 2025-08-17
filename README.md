@@ -14,7 +14,7 @@
 ```
 
 ### 🎯 Current Focus
-- 🔭 Working on: **Malware Analysis Portal with Automated Daily & Weekly Threat Reports**
+- 🔭 Working on: **OSINT Report Portal**
 - 👯 Collaborating on: **Open Source Threat Intelligence Tools**
 - 💬 Ask me about: **Cloud Security, SIEM/SOAR, Incident Response, Threat Hunting**
 
