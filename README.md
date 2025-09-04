@@ -8,8 +8,8 @@
 
 ```ascii
 ╔════════════════════════════════════════════════════════════════════╗
-║  🔐   Cybersecurity Specialist |   ☁️  Cloud Security Engineer    ║
-║  🕵️   Intelligence Analyst     |   🛡️  Threat Hunter              ║
+   🔐   Cybersecurity Specialist |   ☁️  Cloud Security Engineer    
+   🕵️   Intelligence Analyst     |   🛡️  Threat Hunter               
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
